@@ -1,0 +1,215 @@
+* {
+  font-family: monospace;
+  box-sizing: border-box;
+}
+
+.main-header {
+  background-image: url("./5071426935586816.jpg");
+  background-repeat: no-repeat;
+  height: 62vw;
+  background-size: cover;
+}
+.main-nav {
+  float: right;
+}
+a {
+  padding: 10px;
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+}
+
+#hcon {
+  padding-left: 600px;
+  padding-right: 50px;
+  padding-top: 50px;
+  font-size: 35px;
+  font-weight: bold;
+}
+#bot{
+  float: right;
+  background-color: #10C9C3;
+  margin-right: 33vw;
+  border-radius: 5px;
+ color: white;
+ padding: 10px;
+
+}
+#hconn {
+  padding-left: 55vw;
+  padding-right: 50px;
+}
+.triangle {
+  padding: 6px;
+  display: inline-block;
+}
+.abo {
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+}
+#texttwo {
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+  font-weight: initial;
+}
+.imza {
+  padding-left: 436px;
+  width: 63%;
+}
+.bas1 { 
+  font-size: 15px;
+}
+#pencil{
+background-image: url('./envelopes_pencil_green_leaves-wallpaper-1366x768.jpg');
+height: 45vw;
+}
+.line1{
+  width: 25%;
+  height: 4px;
+  background-color: #1FC3BC;
+  float: left;
+}
+.line2{
+  width: 10%;
+  height: 4px;
+  background-color: grey;
+  float: left;
+}
+.bas2{
+font-size: 15px;
+}
+.line3{
+  width: 31%;
+  height: 4px;
+  background-color: #1FC3BC;
+  float: left;
+}
+.line4{
+  width: 4%;
+  height: 4px;
+  background-color: grey;
+  float: left;
+}
+.line5{
+  width: 17%;
+  height: 4px;
+  background-color: #1FC3BC;
+  float: left;
+}
+.line6{
+  width: 18%;
+  height: 4px;
+  background-color: grey;
+  float: left;
+}
+.bas3{
+  font-size: 15px;
+}
+.orta{
+  padding: 132px 80px;
+}
+.foot{
+  background-color: #10C9C3;
+  height: 20vw;
+}
+.bag{
+  display: inline-block;
+}
+.img{
+  width: 40px;
+}
+.zaraza{
+  width: 45px;
+}
+.pic1{
+  padding: 7vw 50px;
+  display: inline-block;
+}
+.pic2{
+  display: inline-block;
+  padding: 7vw 50px;
+}
+.pic3{
+  display: inline-block;
+  padding: 7vw 50px;
+}
+.pic4{
+  display: inline-block;
+}
+.size{
+  width: 24%;
+  height: 28vw;
+}
+.qayf{
+  text-align: center;
+  background-color: #F5F5F5;
+}
+.pisiy{
+  text-align: center;
+}
+.psy{
+  padding-left: 30vw;
+  width: 69%;
+}
+.vuqar{
+  padding: 7vw
+}
+.desgn{
+  text-align: center;
+}
+#north{
+  width: 24%;
+  display: inline-block;
+}
+.klas{
+  padding-left: 11vw;
+}
+
+}
+.tac{
+  background-color: #F5F5F5;
+}
+.emailtext{
+  width: 49%;
+  margin-left: 24vw;
+  text-align: center;
+}
+.window{
+  text-align: center;
+}
+.page1{
+width: 24%;
+display: inline-block;
+color: #BBBBBB;
+}
+.page2{
+  width: 24%;
+display: inline-block;
+color: #BBBBBB;
+}
+.page3{
+  display: inline-block;
+  width: 24%;
+margin-top: 50px;
+color: #BBBBBB;
+text-decoration: none;
+list-style-type: none;
+}
+.page4{
+  display: inline-block;
+  width: 24%;
+margin-top: 50px;
+color: #BBBBBB;
+text-decoration: none;
+list-style-type: none;
+}
+footer a {
+  padding: 0px;
+  
+}
+.footpage{
+  background-color: #141414;
+  height: 14vw;
+}
